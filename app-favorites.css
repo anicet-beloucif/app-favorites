@@ -1,0 +1,68 @@
+body {margin: 0;}
+
+header {text-align: center;}
+
+main {display: flex;
+    justify-content: space-evenly;
+    background-image: url(https://1.bp.blogspot.com/-Rcqsdo_Itcs/XPITCxfj8lI/AAAAAAAAC5s/QIJ2xZqMRTg4vtCxzvfaOOYNW_FxzF-sQCLcBGAs/s1600/romantic%2Blove%2Bwallpapers%2B%25287%2529.jpg);}
+
+/* Block Twitter*/
+#twitter {border-style: inset;
+          border-radius: 25px;
+            border-color: blue;
+            margin: 25px;
+            padding: 25px;
+            text-align: center;
+            justify-content: center;
+            background-image: linear-gradient(to top right, #D4EEF8,white);  }
+
+/* logo twitter */    
+#twitterlogo {  
+            height: 100px;
+              width: 100px;  }
+
+/* description de twitter*/
+#twitterdescription {width: 160px;}
+
+/*Block instagram*/
+#instagram {border-style: groove;
+            border-radius: 25px;
+            border-color: blueviolet;
+            margin: 25px;
+            padding: 25px;
+            text-align: center;
+            background-image: linear-gradient(to top right, #F9CA6F,#8F3DBF);}
+
+/*logo instagram */
+#instalogo {
+            height: 100px;
+            width: 100px;}
+
+/* description instagram*/
+#instadescription {width: 160px;}
+
+
+/* description d'Instagram */            
+#twitterdescription {width: 160px} 
+
+/*Block Telegram*/
+#telegram {border-style: dashed;
+            border-radius: 25px;
+            border-color: cadetblue;
+            margin: 25px;
+            padding: 25px;
+            text-align: center;
+            background-image: linear-gradient(to top left,#369AE4, white);}
+
+
+/* logo telegram */
+#telegramlogo {
+                height: 100px;
+                width: 160px;}
+
+/* description telegram*/
+#telegramdescription {width: 160px;}
+
+/* relatif aux boutons "En apprendre plus" */
+
+

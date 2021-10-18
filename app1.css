@@ -1,0 +1,42 @@
+#logotwitter {height: 100px;
+                width: 100px;}
+
+header {display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: 30px;}
+
+body {  margin: 0px 30px 0px 30px;
+        display: flex;
+        background-image: linear-gradient(to top right, #39A2F2,white);
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+p {margin : 0px 50px 0px 50px}
+
+.titre:hover {color:white;
+                transition-duration: 0.5s;}
+
+.titre {text-align: center;}
+
+#grostitre { background-color: lightgray;
+                border-radius:25px ;}
+
+#soustitre {font-family: "Gill Sans", sans-serif;
+                font-size: 13px;
+                text-align: left;}
+
+#grostitre {background-color: lightgray;
+                border-style: solid;
+                border-color: darkgray;}
+
+
+
+#twitterux {text-align: center;}
+#twitteruxpic {border-radius: 25px;}
+
+#telechargement {display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;}
+
+#playstore {max-width: 300px;}
+#appstore {max-width: 300px;}
